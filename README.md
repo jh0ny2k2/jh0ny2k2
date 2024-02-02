@@ -2,8 +2,6 @@
 <h3 align="center">Un apasionado de el Desarrollo Web</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jh0ny2k2" alt="jh0ny2k2" /></a> </p>
-
 - 🌱 Actualmente cursando **2º Desarrollo de Aplicaciones Web**
 
 - 👨‍💻 Link de mi repositorio [https://jhonathanchaves.000webhostapp.com/](https://jhonathanchaves.000webhostapp.com/)
