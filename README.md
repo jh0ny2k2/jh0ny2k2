@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jhonathan Chaves</h1>
-<h3 align="center">Un apasionado de el Desarrollo Web</h3>
+<h1 align="center">Hola 👋, soy Jhonathan Chaves</h1>
+<h3 align="center">Apasionado de el Desarrollo Web</h3>
 
 
 - 🌱 Actualmente cursando **2º Desarrollo de Aplicaciones Web**
