@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhonathan Chaves</h1>
 <h3 align="center">Un apasionado de el Desarrollo Web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jh0ny2k2&label=Profile%20views&color=0e75b6&style=flat" alt="jh0ny2k2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jh0ny2k2" alt="jh0ny2k2" /></a> </p>
 
