@@ -6,7 +6,7 @@
 🌱 Actualmente cursando 2º Desarrollo de Aplicaciones Web<br><br>👨‍💻 Link de mi repositorio https://jhonathanchaves.000webhostapp.com/<br><br>💬 Preguntame sobre Php, Laravel, Html, Css ...<br><br>📫 Como contactarme developerjhony@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Encuentrame:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jh0ny2k2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jhonathan-chaves-manzano-825b32215/) 
 
 # 💻 Habilidades:
@@ -16,19 +16,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jh0ny2k2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jh0ny2k2&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos GitHub
 ![](https://github-profile-trophy.vercel.app/?username=jh0ny2k2&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Repositorios Más Utilizados
 ![](https://github-contributor-stats.vercel.app/api?username=jh0ny2k2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jh0ny2k2&icon=0&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Ayudame Donandome
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/TheJh0ny35) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
