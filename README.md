@@ -6,8 +6,8 @@
 
 - 🌱 Actualmente Cursando **2º Desarrollo de Aplicaciones Web**
 - 💬 Preguntame sobre **Php, Laravel, Html, Css ...**
-- 📫 Como contactarme **chavesnano@gmail.com**
-- 👨‍💻 Link a mi portofolio **https://jhonathanchaves.000webhostapp.com/**
+- 📫 Como contactarme **developerjhony@gmail.com**
+- 👨‍💻 Link a mi portofolio ****
 
 <div> <a href="https://www.linkedin.com/in/https://www.instagram.com/jh0ny2k2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/jh0ny2k2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
