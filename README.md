@@ -70,15 +70,20 @@
 </ul>
 
 <h3 align="left">Experiencia:</h3>
-<p align="left">
-  -  <img src="https://www.whitedrop.it/wp-content/uploads/2023/05/WhiteDrop-new-logo-bianco-orizz.png.webp" alt="WhiteDrop" width="120" height="40"/> WhiteDrop SRL Italy 
-</p>
-<p align="left">
-  -  <img src="http://resmoke.es/storage/logo%20resmoke.png" alt="Resmoke" width="60" height="60"/> Resmoke 
-</p>
-<p align="left">
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Escudo_de_La_Mojonera.svg/338px-Escudo_de_La_Mojonera.svg.png" alt="La Mojonera" width="60" height="80"/> La Mojonera
-</p>
+<ul>
+  <li>
+    <img src="https://www.whitedrop.it/wp-content/uploads/2023/05/WhiteDrop-new-logo-bianco-orizz.png.webp" alt="WhiteDrop" width="120" height="40"/> 
+    WhiteDrop SRL, Italia
+  </li>
+  <li>
+    <img src="http://resmoke.es/storage/logo%20resmoke.png" alt="Resmoke" width="60" height="60"/> 
+    Resmoke
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Escudo_de_La_Mojonera.svg/338px-Escudo_de_La_Mojonera.svg.png" alt="La Mojonera" width="60" height="80"/> 
+    IES La Mojonera
+  </li>
+</ul>
 
 
 <h3 align="left">Mi GitHub Stats:</h3>
