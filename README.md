@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/jh0ny2k2&theme=" alt="https://github.com/jh0ny2k2" /></a> </p>
 
-- 🌱 Actualmente Cursando **2º Desarrollo de Aplicaciones Web**
+- 🌱 Actualmente Cursando **2º Desarrollo de Aplicaciones Multiplataforma**
 - 💬 Preguntame sobre **Php, Laravel, Html, Css ...**
 - 📫 Como contactarme **developerjhony@gmail.com**
 - 👨‍💻 Link a mi portofolio ****
@@ -50,6 +50,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+<h3 align="left">Experiencia:</h3>
+<p align="left">
+  - WhiteDrop SRL Italy <img src="https://media.licdn.com/dms/image/v2/C4E0BAQEkzJhHUuwvVg/company-logo_200_200/company-logo_200_200/0/1630614343745/whitedrop_agency_logo?e=2147483647&v=beta&t=rxVwCFRkoNF0giY67Mm4vihYTclyg2u052D8pfqAQ6E" alt="Linux" width="40" height="40"/>
 </p>
 
   ## 💰 Ayudame Donandome
