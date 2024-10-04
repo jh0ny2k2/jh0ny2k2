@@ -54,7 +54,7 @@
 
 <h3 align="left">Experiencia:</h3>
 <p align="left">
-  -  <img src="https://www.whitedrop.it/wp-content/uploads/2023/05/WhiteDrop-new-logo-bianco-orizz.png.webp" alt="Linux" width="100" height="40"/> WhiteDrop SRL Italy
+  -  <img src="https://www.whitedrop.it/wp-content/uploads/2023/05/WhiteDrop-new-logo-bianco-orizz.png.webp" alt="Linux" width="120" height="40"/> WhiteDrop SRL Italy
 </p>
 
   ## 💰 Ayudame Donandome
