@@ -54,7 +54,7 @@
 
 <h3 align="left">Experiencia:</h3>
 <p align="left">
-  - WhiteDrop SRL Italy <img src="https://media.licdn.com/dms/image/v2/C4E0BAQEkzJhHUuwvVg/company-logo_200_200/company-logo_200_200/0/1630614343745/whitedrop_agency_logo?e=2147483647&v=beta&t=rxVwCFRkoNF0giY67Mm4vihYTclyg2u052D8pfqAQ6E" alt="Linux" width="40" height="40"/>
+  -  <img src="https://www.whitedrop.it/wp-content/uploads/2023/04/whitedrop-new-logo-nero-orizz.webp" alt="Linux" width="40" height="40"/> WhiteDrop SRL Italy
 </p>
 
   ## 💰 Ayudame Donandome
