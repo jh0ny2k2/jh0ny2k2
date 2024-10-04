@@ -55,6 +55,8 @@
 <h3 align="left">Experiencia:</h3>
 <p align="left">
   -  <img src="https://www.whitedrop.it/wp-content/uploads/2023/05/WhiteDrop-new-logo-bianco-orizz.png.webp" alt="Linux" width="120" height="40"/> WhiteDrop SRL Italy
+  -  <img src="http://resmoke.es/storage/logo%20resmoke.png" alt="Linux" width="40" height="40"/> Resmoke
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Escudo_de_La_Mojonera.svg/338px-Escudo_de_La_Mojonera.svg.png" alt="Linux" width="40" height="40"/> Resmoke
 </p>
 
   ## 💰 Ayudame Donandome
