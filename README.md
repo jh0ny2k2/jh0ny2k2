@@ -27,21 +27,13 @@
 - **Desarrollador Web**
   - Participé en la creación y mantenimiento de aplicaciones web de alta calidad.
 
-### IES La Mojonera
+### La Mojonera
 - **Estudiante y Proyecto de Desarrollo**
   - Trabajé en diversos proyectos como parte de mi formación académica, aprendiendo y aplicando conceptos clave de desarrollo de software.
 
 ## 📊 GitHub Stats
 
 ![Jhonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jh0ny2k2&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-### 💬 Últimos Proyectos
-
-Aquí puedes ver algunos de los proyectos que he desarrollado:
-
-- **Proyecto 1**: Descripción breve del proyecto y los problemas que resolvió.
-- **Proyecto 2**: Descripción del proyecto y las tecnologías utilizadas.
-- **Proyecto 3**: Información breve sobre otro proyecto que consideres importante.
 
 ## 🌱 Actividad en GitHub
 
